@@ -12,7 +12,6 @@ import pandas as pd
 import numpy as np
 import datetime
 import pickle
-from sklearn.ensemble import RandomForestClassifier
 
 
 app = Flask(__name__, template_folder="template")
