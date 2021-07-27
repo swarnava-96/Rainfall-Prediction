@@ -61,4 +61,23 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ```
 The rest ipynb files are for selecting the best classifier.
 
+## Frontend Using Flask and HTML,CSS
+
+http://rainpredsm.herokuapp.com/
+
 ![Rainy Day - Google Chrome 2021-07-28 02-20-23](https://user-images.githubusercontent.com/75041273/127225796-42dbda09-8e3b-44b0-a159-3654c087b3a8.gif)
+
+## 🏁 Technology Stack
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+
+## 📋 Further Changes to be Done
+
+- [ ] Deploying the Web Application on Cloud.
+     - [ ] Google Cloud 
+     - [ ] Azure
+     - [ ] AWS EC2 Instance
+
+
