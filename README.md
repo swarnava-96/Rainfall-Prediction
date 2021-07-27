@@ -8,10 +8,10 @@ https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
 ## About the project:
 
-Firstly, the dataset was bisected and numerical(continuous,discrete) and categorical features were identidied. Missing Values were handled using Random Sample imputation to maintain the variance,Categorical Values like location, wind direction are handled by using Target guided encoding. Outliers are handled using IQR and boxplot. Feature scaling was also performed but it was not required. This is present in the ipynb file named "Data Preprocessing".
+Firstly, the dataset was bisected and numerical(continuous,discrete) and categorical features were identified. Missing Values were handled using Random Sample imputation to maintain the variance,Categorical Values like location, wind direction are handled by using Target guided encoding. Outliers are handled using IQR and boxplot. Feature scaling was also performed but it was not required. These are present in the ipynb file named "Data Preprocessing".
 Secondly, Feature Selection and was done but all the features were considered as it has only 25 features. This is present in the ipynb file named "Feature Selection".
-Finally, Imbalanced Dataset was handled using SMOTE. Model Creation was then performed. Different types of models were tried like catboost, random forest, logistic regression, xgboost, support vector machines, knn, naive bayes and Decision tree.Out of these models the best classifier was selected. Catboost, random forest and Xgboost were the top 3. 
-However, Xgboost out performed others slightly. So, the best classifier model was Xgboost. Hyperparameter Optimazation was also performed but due to system compatibility a small sample out of the dataset was considered for these models.
+Finally, Imbalanced Dataset was handled using SMOTE. Model Creation was then performed. Different types of Machine Learning algorithms were tried like catboost, random forest, logistic regression, xgboost, support vector machines, knn, naive bayes and Decision tree. Out of these models the best classifier was selected. Catboost, random forest and Xgboost were the top 3. 
+However, Xgboost out performed others slightly. So, the best classifier model was Xgboost. Hyperparameter Optimazation was also performed but due to system compatibility a small sample out of the dataset was considered.
 The conclusion were made using classification metrics, roc curve and auc score.
 
 ## Installation
