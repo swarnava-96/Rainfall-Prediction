@@ -12,7 +12,7 @@ Firstly, the dataset was bisected and numerical(continuous,discrete) and categor
 Secondly, Feature Selection and was done but all the features were considered as it has only 25 features. This is present in the ipynb file named "Feature Selection".
 Finally, Imbalanced Dataset was handled using SMOTE. Model Creation was then performed. Different types of models were tried like catboost, random forest, logistic regression, xgboost, support vector machines, knn, naive bayes and Decision tree.Out of these models the best classifier was selected. Catboost, random forest and Xgboost were the top 3. 
 However, Xgboost out performed others slightly. So, the best classifier model was Xgboost. Hyperparameter Optimazation was also performed but due to system compatibility a small sample out of the dataset was considered for these models.
-The conclusion were made using classification metrics. roc curve and auc score
+The conclusion were made using classification metrics, roc curve and auc score.
 
 ## Installation
 The Code is written in Python 3.7.3 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
