@@ -61,7 +61,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ```
 The rest ipynb files are for selecting the best classifier.
 
-## Frontend Using Flask and HTML,CSS
+## Frontend Using HTML,CSS and Backend using Flask
 
 http://rainpredsm.herokuapp.com/
 
