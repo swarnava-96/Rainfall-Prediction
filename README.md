@@ -65,8 +65,10 @@ The rest ipynb files are for selecting the best classifier.
 
 http://rainpredsm.herokuapp.com/
 
+![Screenshot (93)](https://user-images.githubusercontent.com/75041273/127237352-4519280e-0212-47c6-9f17-28791b3f6467.png)
 
 ![Rainy Day - Google Chrome 2021-07-28 02-20-23](https://user-images.githubusercontent.com/75041273/127236925-4f893eea-9fa9-41a0-9ff6-89d7dadf2ff9.gif)
+
 ![Rainy Day - Google Chrome 2021-07-28 04-11-31](https://user-images.githubusercontent.com/75041273/127237047-df6d69a0-461b-425c-abd8-b011dd9c567f.gif)
 
 
